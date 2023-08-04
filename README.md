@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **vudung2008/vudung2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Facebook](https://www.facebook.com/1000x71021834010)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
