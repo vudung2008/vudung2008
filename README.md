@@ -13,7 +13,7 @@
 const Dung = {
   pronouns: "he" | "him" | "Zeew",
   code: [Javascript, HTML, CSS, C/C++, Java],
-  tools: [Visual Studio Code, Visual Studio,Node, MinGW, Sublime Text],
+  tools: [Visual Studio Code, Visual Studio, Node, Git, MinGW, Sublime Text],
   Communities: {
                         member: "J2Team Community"
                       },
