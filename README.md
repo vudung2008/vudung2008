@@ -1,5 +1,5 @@
 <h2> Hi, I'm Vu Tien Dung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/110656458?v=4" width="230">
+<img align='right' src="https://avatars.githubusercontent.com/u/110656458?s=100989317280&u=6ab773c0b8708a3d77d8fc4a313ab23592c3125a&v=4" width="230">
 <p><em>I'm studying at a high school <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>and a freelance programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
