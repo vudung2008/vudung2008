@@ -1,1 +1,1 @@
-:grinning_face:
+😀
